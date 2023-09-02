@@ -1,0 +1,5 @@
+#ESTE ES UN COMENTARIO DE LINEA
+'''
+ESTE ES UN COMENTARIO DE BLOQUE
+'''
+print ("bienvenidos")
